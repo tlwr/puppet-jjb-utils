@@ -1,0 +1,9 @@
+{
+  "name": "jjb-utils",
+  "version": "0.0.0",
+  "author": "tlwr",
+  "license": "MIT",
+  "summary": "Utilities for working with Jenkins Job Builder",
+  "source": "https://github.com/tlwr/puppet-jjb-utils.git",
+  "dependencies": []
+}
